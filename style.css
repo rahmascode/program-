@@ -1,0 +1,42 @@
+.buy{
+background-color: red;
+color: white;
+border: none;
+border-radius: 13px;
+width: 180px;
+height: 180;
+cursor: pointer;
+font-size: 40px;
+margin-bottom: 40px;
+}
+
+
+.order{
+background-color: yellow;
+color: black;
+width: 100px;
+height: 110;
+cursor: pointer;
+border: none;
+font-size: 20px;
+border-radius: 40px;
+margin-bottom: 30px;
+}
+
+
+.add{
+    background-color: rgb(16, 16, 231);
+height: 60px;
+width: 100px;
+color: white;
+cursor: pointer;
+border: none;
+border-radius: 10px;
+font-size: 20px;
+}
+
+
+
+
+
+
